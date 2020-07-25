@@ -4,7 +4,7 @@
 
 ### Cursus
 ENI | Le développement Web côté serveur – BackEnd avec Java Enterprise Edition (JEE)  
-~ [Module 5 - Les contextes d’exécution est les cookies]()
+~ [Module 5 - Les contextes d’exécution est les cookies](https://github.com/Dyrits/PREFERENCES-D-USAGE-DE-L-APPLICATION/blob/master/Module%2005%20-%20Enonc%C3%A9%20TP%2001%20-%20Pr%C3%A9f%C3%A9rences%20d'usage%20de%20l'application.pdf)
 
 ### Énoncés (par l'ENI)
 
@@ -34,7 +34,7 @@ Proposition de maquette :
 - Java EE
 
 ### Détails | Commentaires
-Ce projet a été construit à partir de zéro en suivant des instructions spécifiques. Différents éléments ont été construits en s'inspirant d'un corrigé proposé.
+Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
 
 L'application a été renommée "Préférences d’usage de l’application".
 
