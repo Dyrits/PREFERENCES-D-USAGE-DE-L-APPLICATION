@@ -1,46 +1,27 @@
-# Suivi des repas
+# Préférences d'usage de l'application
 
-## A propos de ce projet
+A Java EE web application demonstrating application, session and cookie scopes, as practical work for an ENI course.
 
-### Cursus
-ENI | Le développement Web côté serveur – BackEnd avec Java Enterprise Edition (JEE)  
-~ [Module 5 - Les contextes d’exécution est les cookies](https://github.com/Dyrits/PREFERENCES-D-USAGE-DE-L-APPLICATION/blob/master/Module%2005%20-%20Enonc%C3%A9%20TP%2001%20-%20Pr%C3%A9f%C3%A9rences%20d'usage%20de%20l'application.pdf)
+## About The Project
 
-### Énoncés (par l'ENI)
+Practical work for the ENI course "Le développement Web côté serveur - BackEnd avec Java Enterprise Edition (JEE)" (Module 5 - Les contextes d'exécution et les cookies). The original assignment (in French) is available in the repository: [Module 05 - Enoncé TP 01 - Préférences d'usage de l'application.pdf](https://github.com/Dyrits/PREFERENCES-D-USAGE-DE-L-APPLICATION/blob/master/Module%2005%20-%20Enonc%C3%A9%20TP%2001%20-%20Pr%C3%A9f%C3%A9rences%20d'usage%20de%20l'application.pdf).
 
-A partir d'un nouveau Dynamic Web Project, créer l'application suivante.
+From the assignment: the application lets a user pick a display color for the text (blue, red, green, or black by default) and shows how many times the user has visited the home page. The available colors are stored in the application context, the chosen color in the session context, and the request count in a cookie.
 
-#### Description fonctionnelle
+From the author's notes: the project was built from scratch following specific instructions, and the application was renamed "Préférences d'usage de l'application" (from the assigned name TPPreferencesDUsage).
 
-L'application permet à un utilisateur de choisir une couleur d'affichage pour le texte. La couleur par défaut est le noir. Il peut choisir parmi les couleurs suivantes : bleu, rouge, vert, noir.
+### Status
 
-L'application doit aussi afficher le nombre d'accès à la page d'accueil effectués par l'utilisateur depuis qu'il utilise l'application.
+Completed (V1.0), per the original README.
 
-#### Eléments d'architecture
+## Built With
 
-L'application se nomme TPPreferencesDUsage.
+- Java / Java EE (Servlets, JSP)
 
-Mettre en œuvre une architecture adaptée correspondant aux attentes techniques suivantes :
-- Les couleurs disponibles sont stockées dans le contexte d'application.
-- La couleur choisie par l'utilisateur est stockée dans le contexte de session.
-- Le nombre de requêtes effectuées est stocké dans un cookie.
-- Vous êtes totalement libre dans le contenu des pages que vous souhaitez afficher.
+## License
 
-Proposition de maquette :
-> Plus de détails au sein du fichier PDF correspondant.
+No license file is present in this repository.
 
-### Technologies principales
-- Java
-- Java EE
+## Contact
 
-### Détails | Commentaires
-Ce projet a été construit à partir de zéro en suivant des instructions spécifiques.
-
-L'application a été renommée "Préférences d’usage de l’application".
-
-### Statut
-Terminée  (V1.0)
-
-#### Dernière mise à jour
-25/07/2020
-(README | 25/07/2020)
+Dylan J. Gerrits - [GitHub](https://github.com/Dyrits)
